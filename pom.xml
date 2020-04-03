@@ -17,6 +17,8 @@
       <module>cloud-payment-providerconsul8006</module>
       <module>cloud-consumerconsul-order80</module>
     <module>cloud-consumer-feign-order80</module>
+      <module>cloud-payment-provider8004</module>
+      <module>cloud-consumerzk-order80</module>
   </modules>
   <packaging>pom</packaging>
 

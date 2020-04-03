@@ -6,3 +6,4 @@
 [印象笔记分享链接](https://app.yinxiang.com/fx/5debd284-5459-4315-bfe3-2b77de2c31ad)
 ## 学习进度
 - 2020年4月2日 -P42 Ribbon负载均衡
+- 2020年4月3日上午 -46 openFeign服务调用
